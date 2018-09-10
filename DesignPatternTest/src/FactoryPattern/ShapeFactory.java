@@ -2,7 +2,7 @@ package FactoryPattern;
 
 public class ShapeFactory {
 	public static Shape getShape(ShapeType type) {
-		switch(type) {
+		switch (type) {
 		case RECTANGLE:
 			return new Rectangle();
 		case SQUARE:

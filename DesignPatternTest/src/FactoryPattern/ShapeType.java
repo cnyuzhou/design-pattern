@@ -1,5 +1,5 @@
 package FactoryPattern;
 
 public enum ShapeType {
-	RECTANGLE,SQUARE,CIRCLE
+	RECTANGLE, SQUARE, CIRCLE
 }
