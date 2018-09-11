@@ -1,7 +1,7 @@
 package BridgePattern;
 
 public class Rectangle extends Shape {
-	private int x, y, radius;
+	private int x, y;
 
 	public Rectangle(int x, int y) {
 		this.x = x;

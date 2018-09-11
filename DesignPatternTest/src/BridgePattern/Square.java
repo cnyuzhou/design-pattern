@@ -1,7 +1,7 @@
 package BridgePattern;
 
 public class Square extends Shape {
-	private int x, y, radius;
+	private int x, y;
 
 	public Square(int x, int y) {
 		this.x = x;
